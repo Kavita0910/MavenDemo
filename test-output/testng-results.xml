@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19602" started-at="2016-08-06T09:19:01Z" finished-at="2016-08-06T09:19:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19602" started-at="2016-08-06T09:19:01Z" finished-at="2016-08-06T09:19:21Z">
+      <class name="qsp.DemoA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:qsp.DemoA@26be92ad]" name="testA" duration-ms="19567" started-at="2016-08-06T14:49:01Z" finished-at="2016-08-06T14:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- qsp.DemoA -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
