@@ -39,6 +39,11 @@
   	   <version>LATEST</version>
        <scope>compile</scope>
     </dependency>	
+    <dependency>
+    <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.40.2</version>
+	</dependency>
   </dependencies>
 </project>
 <!-- Kavita Gurav control shift c for comment-->
